@@ -1,14 +1,23 @@
 team: Tigers
 
-manager: Brenda
+manager: Thanos
 
-coach: Ruth
+coach: Ronan
 
 members:
 - Linda
 - William
 - David
 - Tyler
+<<<<<<< HEAD
+- Park
+- Gamora
+- Nebula
+=======
 - Kim
 - July
+<<<<<<< HEAD
 - Hoky
+=======
+>>>>>>> origin/New_branch
+>>>>>>> 58bc75ce067d3ba555f740d0326c97462590c43c
